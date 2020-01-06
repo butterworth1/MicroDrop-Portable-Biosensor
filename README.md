@@ -3,6 +3,8 @@ Created by Brendon Besler, Savitri Butterworth, Thomas Lijnse, Ken Loughery and 
 
 Repository for software for ENEL 500 MicroDrop Capstone project - a multi-analyte portable biosensor.
 
+Repository owner: Savitri Butterworth sbutterw@ucalgary.ca
+
 Contents:
 \Embedded\
 The SAMD21 Atmel project to be programmed to the SAMD21 controllers on the device.
