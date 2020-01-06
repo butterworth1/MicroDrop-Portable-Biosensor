@@ -6,6 +6,7 @@ Repository for software for ENEL 500 MicroDrop Capstone project - a multi-analyt
 Repository owner: Savitri Butterworth sbutterw@ucalgary.ca
 
 Contents:
+
 \Embedded\
 The SAMD21 Atmel project to be programmed to the SAMD21 controllers on the device.
 All other files and folders must overwrite the Atmel project defaults when the project is created. To ensure appropriate merging, the Atmel project should be created using the following settings:
